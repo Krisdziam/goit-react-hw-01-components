@@ -1,7 +1,7 @@
 import styles from './Profile.module.css';
 
 const Profile = () => {
-return (<p>Hrewkgnkgj</p>)
+return (<p className={styles.paragh}>Hrewkgnkgj</p>)
 
 
 };
