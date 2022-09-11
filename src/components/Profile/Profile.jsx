@@ -5,6 +5,7 @@ const Profile = props => {
   const { username, tag, location, avatar, stats } = props;
   return (
     <>
+    <h2 className={styles.commonTitle}>TASK 1</h2>
       <div className={styles.profile}>
         <div className={styles.card}>
           <div className={styles.description}>
